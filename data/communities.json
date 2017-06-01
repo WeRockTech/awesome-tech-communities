@@ -70,5 +70,17 @@
     "codeOfConduct": true,
     "levels": ["beginner", "intermediate"],
     "tags": ["Code", "Women", "Minorities"]
+  },
+  {
+    "name": "UK Black Tech",
+    "description": "UKBT believes in the power of diversity in advancing equality and equity in tech. We are driven to build an inclusive tech economy which leads to better access, service and results for all.",
+    "url": "http://www.ukblacktech.com/",
+    "logo": "http://ukblacktech.com/wp-content/uploads/2016/11/UKBlackTech-Trans-black-v2.png",
+    "social": {
+      "twitter": "UKBlackTech"
+    },
+    "codeOfConduct": false,
+    "levels": ["beginner", "intermediate"],
+    "tags": ["Diversity", "Minorities"]
   }
 ]
