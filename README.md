@@ -17,9 +17,11 @@ Use template below and add to the end of `data/communities.json`.
   "name": "Name of Community",
   "description": "Description of the Community",
   "url": "https://github.com/WeRockTech/awesome-tech-communities",
+  "logo": "https://raw.githubusercontent.com/WeRockTech/werocktech.github.io/master/img/twitter-banner.png",
   "social": {
     "twitter": "WeRockTech"
   },
+  "codeOfConduct": false,
   "levels": ["beginner", "intermediate", "advanced"],
   "tags": ["Code", "Women", "Refugees", "TechForGood", "Inclusion", "Diversity"]
 }

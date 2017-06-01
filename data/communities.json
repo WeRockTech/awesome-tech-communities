@@ -3,9 +3,11 @@
     "name": "Code First Girls",
     "description": "Working hard to get more women into tech and entrepreneurship",
     "url": "http://codefirstgirls.org.uk",
+    "logo": "https://pbs.twimg.com/profile_images/572786721922629632/XI4-Cw-n_400x400.png",
     "social": {
       "twitter": "CodeFirstGirls"
     },
+    "codeOfConduct": false,
     "levels": ["beginner"],
     "tags": ["Code", "Women", "Girls"]
   },
@@ -13,9 +15,11 @@
     "name": "UX for Change",
     "description": "#UX4Change is a platform dedicated to Share the Goodness of UX to Change the World, by enabling charities & the public sector to design user centric experiences",
     "url": "http://uxforchangeuk.org",
+    "logo": "https://pbs.twimg.com/profile_images/861374328327225344/5uMoihe6_400x400.jpg",
     "social": {
       "twitter": "UXforChangeUK"
     },
+    "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["UX"]
   },
@@ -23,9 +27,11 @@
     "name": "Women Hack for Non-Profits",
     "description": "Community of women building open source projects for non-profit organisations and charities. Learn to code and work on real life projects :)",
     "url": "http://www.womenhackfornonprofits.com",
+    "logo": "https://pbs.twimg.com/profile_images/752420268417642496/oTgmUPfe_400x400.jpg",
     "social": {
       "twitter": "WHFNP"
     },
+    "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["Code", "Women", "Girls", "TechForGood"]
   },
@@ -33,9 +39,11 @@
     "name": "Mums In Technology",
     "description": "An immersive learning experience in partnership with Industry.Explore, Learn, Connect and be Inspired.As featured in MT,Sunday Times & The Guardian",
     "url": "https://www.mumsintechnology.co.uk",
+    "logo": "https://pbs.twimg.com/profile_images/837664173337284610/2MufVpaB_400x400.jpg",
     "social": {
       "twitter": "MumsinTech"
     },
+    "codeOfConduct": false,
     "levels": ["beginner", "intermediate"],
     "tags": ["Code", "Women", "Mums"]
   },
@@ -43,9 +51,11 @@
     "name": "EmpowerHack",
     "description": "Bringing people together to build solutions empowering women and girls in humanitarian contexts and creating sustainable tech that crosses borders",
     "url": "http://empowerhack.io",
+    "logo": "https://pbs.twimg.com/profile_images/669127116945039360/5kcNoKc7_400x400.jpg",
     "social": {
       "twitter": "EmpowerHack"
     },
+    "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["Code", "Women", "Refugees", "TechForGood"]
   }
