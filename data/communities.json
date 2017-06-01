@@ -58,5 +58,17 @@
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["Code", "Women", "Refugees", "TechForGood"]
+  },
+  {
+    "name": "Codebar",
+    "description": "a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.",
+    "url": "https://codebar.io/",
+    "logo": "https://codebar.io/assets/logo-7345316d16a39b0a5cda277d2cf4cbf3aed1031b9288c0696b8273771ee1fb20.png",
+    "social": {
+      "twitter": "Codebar"
+    },
+    "codeOfConduct": true,
+    "levels": ["beginner", "intermediate"],
+    "tags": ["Code", "Women", "Minorities"]
   }
 ]
