@@ -19,7 +19,9 @@ Use template below and add to the end of `data/communities.json`.
   "url": "https://github.com/WeRockTech/awesome-tech-communities",
   "logo": "https://raw.githubusercontent.com/WeRockTech/werocktech.github.io/master/img/twitter-banner.png",
   "social": {
-    "twitter": "WeRockTech"
+    "twitter": "WeRockTech",
+    "github": "WeRockTech",
+    "facebook": "..."
   },
   "codeOfConduct": false,
   "levels": ["beginner", "intermediate", "advanced"],
