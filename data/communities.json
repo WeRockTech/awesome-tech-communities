@@ -7,7 +7,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/CodeFirstGirls"
+        "url": "http://twitter.com/CodeFirstGirls"
       }
     ],
     "codeOfConduct": false,
@@ -22,7 +22,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/UXforChangeUK"
+        "url": "http://twitter.com/UXforChangeUK"
       }
     ],
     "codeOfConduct": false,
@@ -37,7 +37,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/WHFNP"
+        "url": "http://twitter.com/WHFNP"
       }
     ],
     "codeOfConduct": false,
@@ -52,7 +52,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/MumsinTech"
+        "url": "http://twitter.com/MumsinTech"
       }
     ],
     "codeOfConduct": false,
@@ -67,7 +67,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/EmpowerHack"
+        "url": "http://twitter.com/EmpowerHack"
       }
     ],
     "codeOfConduct": false,
@@ -82,7 +82,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/Codebar"
+        "url": "http://twitter.com/Codebar"
       }
     ],
     "codeOfConduct": true,
@@ -97,7 +97,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/UKBlackTech"
+        "url": "http://twitter.com/UKBlackTech"
       }
     ],
     "codeOfConduct": false,
@@ -112,7 +112,7 @@
     "social": [
       {
         "name": "twitter",
-        "value": "http://twitter.com/UnfoldWomen"
+        "url": "http://twitter.com/UnfoldWomen"
       }
     ],
     "codeOfConduct": false,
@@ -130,7 +130,7 @@
   "social": [
     {
       "name": "twitter",
-      "value": "http://twitter.com/CodeYourFuture_"
+      "url": "http://twitter.com/CodeYourFuture_"
     }
   ],
   "codeOfConduct": false,
