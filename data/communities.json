@@ -118,5 +118,20 @@
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["VR", "AR", "Women", "Gender"]
+  },
+  {
+  "name": "Code Your Future",
+  "description": "A non-profit organisation supporting refugees with the dream of becoming developers.  A 6 month web development programme for refugees looking for students, mentors and volunteers.",
+  "url": "https://codeyourfuture.co",
+  "logo": "https://codeyourfuture.co/img/ico/cyf_brand.png",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "http://twitter.com/CodeYourFuture_"
+    }
+  ],
+  "codeOfConduct": false,
+  "levels": ["beginner"],
+  "tags": ["Code", "Refugees", "Inclusion", "Diversity"]
   }
 ]
