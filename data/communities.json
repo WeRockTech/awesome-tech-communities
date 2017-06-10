@@ -4,9 +4,12 @@
     "description": "Working hard to get more women into tech and entrepreneurship",
     "url": "http://codefirstgirls.org.uk",
     "logo": "https://pbs.twimg.com/profile_images/572786721922629632/XI4-Cw-n_400x400.png",
-    "social": {
-      "twitter": "CodeFirstGirls"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/CodeFirstGirls"
+      }
+    ],
     "codeOfConduct": false,
     "levels": ["beginner"],
     "tags": ["Code", "Women", "Girls"]
@@ -16,9 +19,12 @@
     "description": "#UX4Change is a platform dedicated to Share the Goodness of UX to Change the World, by enabling charities & the public sector to design user centric experiences",
     "url": "http://uxforchangeuk.org",
     "logo": "https://pbs.twimg.com/profile_images/861374328327225344/5uMoihe6_400x400.jpg",
-    "social": {
-      "twitter": "UXforChangeUK"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/UXforChangeUK"
+      }
+    ],
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["UX"]
@@ -28,9 +34,12 @@
     "description": "Community of women building open source projects for non-profit organisations and charities. Learn to code and work on real life projects :)",
     "url": "http://www.womenhackfornonprofits.com",
     "logo": "https://pbs.twimg.com/profile_images/752420268417642496/oTgmUPfe_400x400.jpg",
-    "social": {
-      "twitter": "WHFNP"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/WHFNP"
+      }
+    ],
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["Code", "Women", "Girls", "TechForGood"]
@@ -40,9 +49,12 @@
     "description": "An immersive learning experience in partnership with Industry.Explore, Learn, Connect and be Inspired.As featured in MT,Sunday Times & The Guardian",
     "url": "https://www.mumsintechnology.co.uk",
     "logo": "https://pbs.twimg.com/profile_images/837664173337284610/2MufVpaB_400x400.jpg",
-    "social": {
-      "twitter": "MumsinTech"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/MumsinTech"
+      }
+    ],
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate"],
     "tags": ["Code", "Women", "Mums"]
@@ -52,9 +64,12 @@
     "description": "Bringing people together to build solutions empowering women and girls in humanitarian contexts and creating sustainable tech that crosses borders",
     "url": "http://empowerhack.io",
     "logo": "https://pbs.twimg.com/profile_images/669127116945039360/5kcNoKc7_400x400.jpg",
-    "social": {
-      "twitter": "EmpowerHack"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/EmpowerHack"
+      }
+    ],
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["Code", "Women", "Refugees", "TechForGood"]
@@ -64,9 +79,12 @@
     "description": "a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.",
     "url": "https://codebar.io/",
     "logo": "https://codebar.io/assets/logo-7345316d16a39b0a5cda277d2cf4cbf3aed1031b9288c0696b8273771ee1fb20.png",
-    "social": {
-      "twitter": "Codebar"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/Codebar"
+      }
+    ],
     "codeOfConduct": true,
     "levels": ["beginner", "intermediate"],
     "tags": ["Code", "Women", "Minorities"]
@@ -76,9 +94,12 @@
     "description": "UKBT believes in the power of diversity in advancing equality and equity in tech. We are driven to build an inclusive tech economy which leads to better access, service and results for all.",
     "url": "http://www.ukblacktech.com/",
     "logo": "http://ukblacktech.com/wp-content/uploads/2016/11/UKBlackTech-Trans-black-v2.png",
-    "social": {
-      "twitter": "UKBlackTech"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/UKBlackTech"
+      }
+    ],
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate"],
     "tags": ["Diversity", "Minorities"]
@@ -88,9 +109,12 @@
     "description": "Powering inclusion in immersive tech. We're a support network that actively promotes & champions the inclusion of all underrepresented groups in the VR, AR and MR space. Formerly Women in VR UK",
     "url": "https://www.facebook.com/groups/unfolduk/",
     "logo": "https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/18485911_10156375476758532_7563742107552031879_n.jpg?oh=072724ab61f485af2fb601d40a0ae0b6&oe=59B3E6A4",
-    "social": {
-      "twitter": "UnfoldWomen"
-    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/UnfoldWomen"
+      }
+    ],
     "codeOfConduct": false,
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["VR", "AR", "Women", "Gender"]
