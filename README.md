@@ -30,6 +30,13 @@ Use template below and add to the end of `data/communities.json`.
 }
 ```
 
+## Deploying to GitHub pages
+
+```bash
+$ ng build --prod --base-href "https://WeRockTech.github.io/awesome-tech-communities/"
+$ ./node_modules/angular-cli-ghpages/bin/angular-cli-ghpages
+```
+
 ## Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.5.
