@@ -9,7 +9,7 @@
     <img md-card-avatar src="{{ community.logo }}">
     <md-card-title>
       {{ community.name }}
-      <md-icon *ngIf="community.codeOfConduct">security</md-icon>
+      <md-icon *ngIf="community.codeOfConduct" mdTooltip="Code of Conduct">security</md-icon>
     </md-card-title>
     <md-card-subtitle>{{ community.levels.join(', ') }}</md-card-subtitle>
   </md-card-header>
