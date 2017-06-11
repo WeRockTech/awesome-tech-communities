@@ -124,9 +124,6 @@
   "description": "A non-profit organisation supporting refugees with the dream of becoming developers.  A 6 month web development programme for refugees looking for students, mentors and volunteers.",
   "url": "https://codeyourfuture.co",
   "logo": "https://pbs.twimg.com/profile_images/800747446334849024/q3F7eqrX.jpg",
-  "social": {
-    "twitter": "CodeYourFuture_"
-  },
   "social": [
     {
       "name": "twitter",
@@ -136,5 +133,110 @@
   "codeOfConduct": false,
   "levels": ["beginner"],
   "tags": ["Code", "Refugees", "Inclusion", "Diversity"]
-  }
+  },
+  {
+  "name": "Django Girls",
+  "description": "We inspire women to fall in love with programming.  Django Girls empowers and helps women to organize free, one-day programming workshops.",
+  "url": "https://djangogirls.org",
+  "logo": "https://djangogirls.org/static/img/global/logo.png",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/djangogirls"
+    }
+  ],
+  "codeOfConduct": "https://djangogirls.org/coc/",
+  "levels": ["beginner"],
+  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  }, 
+  {
+  "name": "Pyladies",
+  "description": "We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.",
+  "url": "http://www.pyladies.com",
+  "logo": "http://www.pyladies.com/assets/images/pyladies_logo.png",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PyLadiesLondon"
+    }
+  ],
+  "codeOfConduct": "http://www.pyladies.com/CodeOfConduct/",
+  "levels": ["beginner", "intermediate", "advanced"],
+  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  },
+  {
+  "name": "Clojure Bridge",
+  "description": "ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.",
+  "url": "http://www.clojurebridge.org",
+  "logo": "https://avatars3.githubusercontent.com/u/5693478?v=3&s=400",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ClojureBridgeLN"
+    }
+  ],
+  "codeOfConduct": "https://bridgefoundry.org/code-of-conduct/",
+  "levels": ["beginner"],
+  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  },
+  {
+  "name": "Node Girls",
+  "description": "Node Girls runs free JavaScript and Node.js workshops for women, non-binary and trans folk around the world.",
+  "url": "http://nodegirls.io/london.html",
+  "logo": "http://nodegirls.io/images/ng-logo.svg",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/nodegirlslondon"
+    }
+  ],
+  "codeOfConduct": false,
+  "levels": ["beginner", "intermediate"],
+  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  },
+  {
+  "name": "Rails Girls",
+  "description": "We are making technology more approachable for women. Workshop participants can learn sketching, prototyping, basic programming and get introduced to the world of technology.",
+  "url": "http://railsgirls.london",
+  "logo": "http://railsgirls.london/assets/logo-d9e82a4b8937e091246b8390a09095a915fa36bc7635746be9243a440c2e1dca.svg",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/railsgirls_ldn"
+    }
+  ],
+  "codeOfConduct": false,
+  "levels": ["beginner"],
+  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  },
+  {
+  "name": "R Ladies",
+  "description": "https://rladies.org",
+  "url": "https://www.meetup.com/rladies-london/",
+  "logo": "https://secure.meetupstatic.com/photos/event/8/6/5/7/global_456634391.jpeg",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/RLadiesLondon/"
+    }
+  ],
+  "codeOfConduct": false,
+  "levels": ["beginner", "intermediate", "advanced"],
+  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  },
+  {
+  "name": "Women Who Go",
+  "description": "We are women of the Go community",
+  "url": "https://www.meetup.com/Women-Who-Go-London/",
+  "logo": "https://secure.meetupstatic.com/photos/event/e/2/f/f/global_457978111.jpeg",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/womenwhogolndn/"
+    }
+  ],
+  "codeOfConduct": false,
+  "levels": ["beginner", "intermediate", "advanced"],
+  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  },
 ]
