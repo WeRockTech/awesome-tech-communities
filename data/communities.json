@@ -10,7 +10,7 @@
         "url": "http://twitter.com/CodeFirstGirls"
       }
     ],
-    "codeOfConduct": false,
+    "codeOfConduct": "",
     "levels": ["beginner"],
     "tags": ["Code", "Women", "Girls"]
   },
@@ -25,7 +25,7 @@
         "url": "http://twitter.com/UXforChangeUK"
       }
     ],
-    "codeOfConduct": false,
+    "codeOfConduct": "",
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["UX"]
   },
@@ -40,7 +40,7 @@
         "url": "http://twitter.com/WHFNP"
       }
     ],
-    "codeOfConduct": false,
+    "codeOfConduct": "",
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["Code", "Women", "Girls", "TechForGood"]
   },
@@ -55,7 +55,7 @@
         "url": "http://twitter.com/MumsinTech"
       }
     ],
-    "codeOfConduct": false,
+    "codeOfConduct": "",
     "levels": ["beginner", "intermediate"],
     "tags": ["Code", "Women", "Mums"]
   },
@@ -70,7 +70,7 @@
         "url": "http://twitter.com/EmpowerHack"
       }
     ],
-    "codeOfConduct": false,
+    "codeOfConduct": "",
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["Code", "Women", "Refugees", "TechForGood"]
   },
@@ -85,7 +85,7 @@
         "url": "http://twitter.com/Codebar"
       }
     ],
-    "codeOfConduct": true,
+    "codeOfConduct": "https://codebar.io/code-of-conduct",
     "levels": ["beginner", "intermediate"],
     "tags": ["Code", "Women", "Minorities"]
   },
@@ -100,7 +100,7 @@
         "url": "http://twitter.com/UKBlackTech"
       }
     ],
-    "codeOfConduct": false,
+    "codeOfConduct": "",
     "levels": ["beginner", "intermediate"],
     "tags": ["Diversity", "Minorities"]
   },
@@ -115,7 +115,7 @@
         "url": "http://twitter.com/UnfoldWomen"
       }
     ],
-    "codeOfConduct": false,
+    "codeOfConduct": "",
     "levels": ["beginner", "intermediate", "advanced"],
     "tags": ["VR", "AR", "Women", "Gender"]
   },
@@ -130,7 +130,7 @@
       "url": "http://twitter.com/CodeYourFuture_"
     }
   ],
-  "codeOfConduct": false,
+  "codeOfConduct": "",
   "levels": ["beginner"],
   "tags": ["Code", "Refugees", "Inclusion", "Diversity"]
   },
@@ -190,7 +190,7 @@
       "url": "https://twitter.com/nodegirlslondon"
     }
   ],
-  "codeOfConduct": false,
+  "codeOfConduct": "",
   "levels": ["beginner", "intermediate"],
   "tags": ["Code", "Women", "Inclusion", "Diversity"]
   },
@@ -205,7 +205,7 @@
       "url": "https://twitter.com/railsgirls_ldn"
     }
   ],
-  "codeOfConduct": false,
+  "codeOfConduct": "",
   "levels": ["beginner"],
   "tags": ["Code", "Women", "Inclusion", "Diversity"]
   },
@@ -220,7 +220,7 @@
       "url": "https://twitter.com/RLadiesLondon/"
     }
   ],
-  "codeOfConduct": false,
+  "codeOfConduct": "",
   "levels": ["beginner", "intermediate", "advanced"],
   "tags": ["Code", "Women", "Inclusion", "Diversity"]
   },
@@ -235,7 +235,7 @@
       "url": "https://twitter.com/womenwhogolndn/"
     }
   ],
-  "codeOfConduct": false,
+  "codeOfConduct": "",
   "levels": ["beginner", "intermediate", "advanced"],
   "tags": ["Code", "Women", "Inclusion", "Diversity"]
   }
