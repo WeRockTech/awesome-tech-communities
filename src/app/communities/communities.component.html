@@ -21,6 +21,6 @@
   </md-card-content>
   <md-card-actions>
     <a md-raised-button *ngIf="community.url" [href]="community.url" target="_blank">WEBSITE</a>
-    <a md-raised-button *ngFor="let social of community.social" [href]="social.url" target="_blank">{{ social.name.toUpperCase() }}</a>
+    <a md-raised-button *ngFor="let social of community.social" [href]="social.url" target="_blank">{{ social.name | uppercase }}</a>
   </md-card-actions>
 </md-card>
