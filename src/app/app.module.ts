@@ -10,11 +10,13 @@ import 'hammerjs';
 
 import { AppComponent } from './app.component';
 import { CommunitiesComponent } from './communities/communities.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CommunitiesComponent
+    CommunitiesComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
