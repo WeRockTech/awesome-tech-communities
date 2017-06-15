@@ -26,7 +26,7 @@ import { HeaderComponent } from './header/header.component';
     BrowserAnimationsModule,
     FlexLayoutModule
   ],
-  providers: [CommunityService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
