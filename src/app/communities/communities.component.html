@@ -8,7 +8,7 @@
 
 <md-chip-list>
   <md-chip (click)="getCommunities()" selected="true" class="pointer">ALL</md-chip>
-  <md-chip *ngFor="let tag of tags" (click)="getCommunities(tag)" class="pointer">{{ tag }}</md-chip>
+  <md-chip *ngFor="let tag of tags" (click)="getCommunities(tag)" class="pointer">{{ tag }} ({{ tagTotals[tag] }})</md-chip>
 </md-chip-list>
 
 <hr />
