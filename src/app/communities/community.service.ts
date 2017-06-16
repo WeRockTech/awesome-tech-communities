@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Http } from '@angular/http';
 import 'rxjs/add/operator/toPromise';
-import { Community } from './community';
+import { Community } from './community.model';
 
 @Injectable()
 export class CommunityService {
