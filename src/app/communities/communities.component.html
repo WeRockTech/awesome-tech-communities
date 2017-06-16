@@ -1,4 +1,10 @@
-<p>Displaying <b>{{ total }}</b> communities</p>
+<md-chip-list>
+  <md-chip (click)="getCommunities()">ALL</md-chip>
+  <md-chip *ngFor="let tag of tags" (click)="getCommunities(tag)">{{ tag }}</md-chip>
+</md-chip-list>
+
+<p>Displaying <b>{{ displaying }}</b> / <b>{{ total }}</b> communities</p>
+
 <md-card *ngFor="let community of communities">
   <md-card-header>
     <img md-card-avatar src="{{ community.logo }}">
