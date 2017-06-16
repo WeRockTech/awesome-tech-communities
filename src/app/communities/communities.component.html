@@ -10,7 +10,7 @@
     <img md-card-avatar src="{{ community.logo }}">
     <md-card-title>
       {{ community.name }}
-      <md-icon *ngIf="community.codeOfConduct" mdTooltip="Code of Conduct">security</md-icon>
+      <a href="{{ community.codeOfConduct }}" target="_blank"><md-icon *ngIf="community.codeOfConduct" mdTooltip="Code of Conduct">security</md-icon></a>
     </md-card-title>
     <md-card-subtitle>{{ community.levels.join(', ') }}</md-card-subtitle>
   </md-card-header>
