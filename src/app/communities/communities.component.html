@@ -1,7 +1,11 @@
+<hr />
+
 <md-chip-list>
-  <md-chip (click)="getCommunities()">ALL</md-chip>
+  <md-chip (click)="getCommunities()" selected="true">ALL</md-chip>
   <md-chip *ngFor="let tag of tags" (click)="getCommunities(tag)">{{ tag }}</md-chip>
 </md-chip-list>
+
+<hr />
 
 <p>Displaying <b>{{ displaying }}</b> / <b>{{ total }}</b> communities</p>
 
