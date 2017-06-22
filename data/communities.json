@@ -148,7 +148,7 @@
   "codeOfConduct": "https://djangogirls.org/coc/",
   "levels": ["beginner"],
   "tags": ["Code", "Women", "Inclusion", "Diversity"]
-  }, 
+  },
   {
   "name": "Pyladies",
   "description": "We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.",
@@ -225,18 +225,42 @@
   "tags": ["Code", "Women", "Inclusion", "Diversity"]
   },
   {
-  "name": "Women Who Go",
-  "description": "We are women of the Go community",
-  "url": "https://www.meetup.com/Women-Who-Go-London/",
-  "logo": "https://secure.meetupstatic.com/photos/event/e/2/f/f/global_457978111.jpeg",
+    "name": "Women Who Go",
+    "description": "We are women of the Go community",
+    "url": "https://www.meetup.com/Women-Who-Go-London/",
+    "logo": "https://secure.meetupstatic.com/photos/event/e/2/f/f/global_457978111.jpeg",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/womenwhogolndn/"
+      }
+    ],
+    "codeOfConduct": "",
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "tags": [
+      "Code",
+      "Women",
+      "Inclusion",
+      "Diversity"
+    ]
+  },
+  {
+  "name": "Ladies of Code",
+  "description": "We are an international community of professional women developers. Through our series of global meetups, scholarships and conferences we support the technology leaders of today and tomorrow.",
+  "url": "https://www.ladiesofcode.com",
+  "logo": "https://www.ladiesofcode.com/dist/assets/img/LoC_Animated_Colour.gif",
   "social": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/womenwhogolndn/"
+      "url": "https://twitter.com/ladiesofcode"
     }
   ],
-  "codeOfConduct": "",
-  "levels": ["beginner", "intermediate", "advanced"],
-  "tags": ["Code", "Women", "Inclusion", "Diversity"]
+  "codeOfConduct": false,
+  "levels": ["beginner"],
+  "tags": ["Code", "Inclusion", "Diversity", "Women"]
   }
 ]
