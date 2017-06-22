@@ -262,5 +262,20 @@
   "codeOfConduct": "",
   "levels": ["beginner"],
   "tags": ["Code", "Inclusion", "Diversity", "Women"]
+  },
+  {
+  "name": "Next Tech Girls",
+  "description": "Initiative by @Empiric_UK to improve #tech #equality by getting #girls #workexperience. #WomenInTech #Diversity.",
+  "url": "http://www.nexttechgirls.com",
+  "logo": "https://pbs.twimg.com/profile_images/826465288686280705/ttJfuoSj_400x400.jpg",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/NextTechGirls"
+    }
+  ],
+  "codeOfConduct": "",
+  "levels": ["beginner"],
+  "tags": ["Tech", "Inclusion", "Diversity", "Girls"]
   }
 ]
