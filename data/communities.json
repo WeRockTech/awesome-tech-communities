@@ -277,5 +277,19 @@
   "codeOfConduct": "",
   "levels": ["beginner"],
   "tags": ["Tech", "Inclusion", "Diversity", "Girls"]
+  },
+  {
+  "name": "HackBrexit",
+  "description": "Beyond Brexit: Creating dialogue and action for a country divided.",
+  "url": "http://hackbrexit.org",
+  "social": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/search?q=%23HackBrexit&ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fhackbrexit.org%2F"
+    }
+  ],
+  "codeOfConduct": "",
+  "levels": ["beginner", "intermediate", "advanced"],
+  "tags": ["Tech", "Brexit", "Accountability", "Government"]
   }
 ]
