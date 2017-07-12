@@ -2,6 +2,8 @@
 
 List of **Awesome Tech Communities**.
 
+![Screenshot of AwesomeTechCommunities](https://user-images.githubusercontent.com/624760/28104397-c0f1ff30-66d2-11e7-9c83-6344e5a4fec8.png)
+
 ## Contribution
 
 ### Update
